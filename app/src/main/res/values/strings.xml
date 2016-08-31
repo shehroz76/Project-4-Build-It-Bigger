@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Build it Bigger</string>
+    <string name="progress_dialog_title">Getting a Joke</string>
+    <string name="progress_dialog_message">Fetching a brand new joke for you, please wait</string>
+    <string name="random_jokes_url" translatable="false">http://tambal.azurewebsites.net/joke/random</string>
+    <string name="tell_me_a_joke">Tell me a joke</string>
+
+</resources>
